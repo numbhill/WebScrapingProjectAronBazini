@@ -114,15 +114,13 @@ API_KEY = "YOUR_API_KEY_HERE"
 ## Output File Examples
 
 ### `hourly_forecast.csv`
-| Time              | Temperature | Condition       |
-|-------------------|-------------|-----------------|
-| 2025-01-26 00:00 | 11.6 °C     | Clear           |
-| 2025-01-26 01:00 | 11.5 °C     | Clear           |
-| 2025-01-26 02:00 | 11.7 °C     | Overcast        |
+![image](https://github.com/user-attachments/assets/957b93c0-b5f3-4176-bd74-f4ec992f0197)
 
 ### `daily_forecast.csv`
-| Date         | Max Temperature | Min Temperature | Condition       |
-|--------------|-----------------|-----------------|-----------------|
-| 2025-01-26   | 15.5 °C         | 11.4 °C         | Partly Cloudy   |
-| 2025-01-27   | 15.5 °C         | 11.0 °C         | Sunny           |
+![image](https://github.com/user-attachments/assets/bec74f6f-8d64-4be6-96f8-c53c33dadb74)
 
+### `current_weather.csv`
+![image](https://github.com/user-attachments/assets/9b580c6d-d1b1-4b65-9354-9dd950bc6867)
+
+### `current_weather_encrypted.bin`
+![image](https://github.com/user-attachments/assets/37b84ce3-639a-4f93-b193-9d1604f96504)
