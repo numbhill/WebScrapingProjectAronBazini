@@ -1,7 +1,12 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
   <component name="ChangeListManager">
-    <list default="true" id="51e6a3c3-f7bf-471d-a209-699e0b1e9e26" name="Changes" comment="" />
+    <list default="true" id="51e6a3c3-f7bf-471d-a209-699e0b1e9e26" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/scraping.py" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -48,7 +53,7 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1737893253793</updated>
-      <workItem from="1737893255102" duration="332000" />
+      <workItem from="1737893255102" duration="692000" />
     </task>
     <servers />
   </component>
