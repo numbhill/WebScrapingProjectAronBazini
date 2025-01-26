@@ -1,17 +1,25 @@
 Time,Temperature,Condition
-N/A,17°,Light Cloud
-N/A,16°,Light Cloud
-N/A,15°,Light Cloud
-N/A,13°,Partly Cloudy
-N/A,12°,Partly Cloudy
-N/A,11°,Clear Sky
-N/A,10°,Clear Sky
-N/A,9°,Clear Sky
-N/A,9°,Clear Sky
-N/A,7°,Clear Sky
-N/A,7°,Clear Sky
-N/A,8°,Clear Sky
-N/A,7°,Clear Sky
-N/A,8°,Partly Cloudy
-N/A,9°,Partly Cloudy
-N/A,9°,Partly Cloudy
+2025-01-26 00:00,11.6,Clear 
+2025-01-26 01:00,11.5,Clear 
+2025-01-26 02:00,11.7,Overcast 
+2025-01-26 03:00,11.8,Clear 
+2025-01-26 04:00,12.0,Partly Cloudy 
+2025-01-26 05:00,11.9,Clear 
+2025-01-26 06:00,11.5,Clear 
+2025-01-26 07:00,11.4,Sunny
+2025-01-26 08:00,11.9,Sunny
+2025-01-26 09:00,12.9,Sunny
+2025-01-26 10:00,13.8,Cloudy 
+2025-01-26 11:00,14.5,Cloudy 
+2025-01-26 12:00,15.1,Partly Cloudy 
+2025-01-26 13:00,15.4,Partly Cloudy 
+2025-01-26 14:00,15.5,Partly Cloudy 
+2025-01-26 15:00,15.4,Cloudy 
+2025-01-26 16:00,14.5,Overcast 
+2025-01-26 17:00,13.6,Overcast 
+2025-01-26 18:00,13.3,Overcast 
+2025-01-26 19:00,13.0,Partly Cloudy 
+2025-01-26 20:00,12.6,Partly Cloudy 
+2025-01-26 21:00,12.6,Partly Cloudy 
+2025-01-26 22:00,12.3,Partly Cloudy 
+2025-01-26 23:00,12.0,Overcast 
